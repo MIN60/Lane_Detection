@@ -1,3 +1,7 @@
+✨ If you need a README in Korean, please check the 'korean' branch.
+
+✨한국어로 된 readme가 필요하시다면 'korean' branch를 확인해주세요
+
 # Lane_Detection
 허프 변환과 케니 에지 연산자, 버드아이뷰를 이용한 차선 검출
 
